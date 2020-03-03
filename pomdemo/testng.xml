@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "TestNG">
+
+    <test = "Testing TestNG">
+    
+        <classes>
+        
+            <class name = "testcase.LinkedInPgLogin"/>
+            <class name = "testcase.Orangelogin"/>
+        </classes>
+        
+    </test>
+
+</suite>

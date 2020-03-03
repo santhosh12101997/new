@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JAR/apache poi jar download for excel/poi-4.1.2/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar poi/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

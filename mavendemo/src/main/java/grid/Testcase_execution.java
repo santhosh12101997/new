@@ -12,14 +12,14 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class Testcase {
+public class Testcase_execution {
 	WebDriver driver;
 	String Baseurl, nodeurl;
 	@BeforeTest
 	public void setup() throws MalformedURLException
 	{
 		Baseurl="https://www.google.com/";
-		nodeurl="";
+		nodeurl="http://192.168.1.222:3333/grid/register";
 		DesiredCapabilities capablity = DesiredCapabilities.chrome();
 		capablity.setBrowserName("chrome");
 		capablity.setPlatform(Platform.WINDOWS);
